@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-05T00:46:00 EDT" name="Suite" finished-at="2024-04-05T00:46:52 EDT" duration-ms="52083">
+    <groups>
+    </groups>
+    <test started-at="2024-04-05T00:46:00 EDT" name="ErrorValTest" finished-at="2024-04-05T00:46:52 EDT" duration-ms="52083">
+      <class name="POMproject.WebsiteTestingMay2023.ErrorValidationTest">
+        <test-method is-config="true" signature="launchapplication()[pri:0, instance:POMproject.WebsiteTestingMay2023.ErrorValidationTest@14bdbc74]" started-at="2024-04-05T00:46:00 EDT" name="launchapplication" finished-at="2024-04-05T00:46:16 EDT" duration-ms="15536" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchapplication -->
+        <test-method signature="producterrorvalidation()[pri:0, instance:POMproject.WebsiteTestingMay2023.ErrorValidationTest@14bdbc74]" started-at="2024-04-05T00:46:16 EDT" name="producterrorvalidation" finished-at="2024-04-05T00:46:22 EDT" duration-ms="6273" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- producterrorvalidation -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:POMproject.WebsiteTestingMay2023.ErrorValidationTest@14bdbc74]" started-at="2024-04-05T00:46:22 EDT" name="closebrowser" finished-at="2024-04-05T00:46:24 EDT" duration-ms="2354" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method is-config="true" signature="launchapplication()[pri:0, instance:POMproject.WebsiteTestingMay2023.ErrorValidationTest@14bdbc74]" started-at="2024-04-05T00:46:24 EDT" name="launchapplication" finished-at="2024-04-05T00:46:35 EDT" duration-ms="10423" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchapplication -->
+        <test-method signature="validateerrorcode(java.lang.String,java.lang.String)[pri:0, instance:POMproject.WebsiteTestingMay2023.ErrorValidationTest@14bdbc74]" started-at="2024-04-05T00:46:35 EDT" name="validateerrorcode" data-provider="getdataerror" finished-at="2024-04-05T00:46:36 EDT" duration-ms="1525" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[jaibiirsingh1312@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[123456]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateerrorcode -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:POMproject.WebsiteTestingMay2023.ErrorValidationTest@14bdbc74]" started-at="2024-04-05T00:46:36 EDT" name="closebrowser" finished-at="2024-04-05T00:46:39 EDT" duration-ms="2104" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method is-config="true" signature="launchapplication()[pri:0, instance:POMproject.WebsiteTestingMay2023.ErrorValidationTest@14bdbc74]" started-at="2024-04-05T00:46:39 EDT" name="launchapplication" finished-at="2024-04-05T00:46:49 EDT" duration-ms="10392" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchapplication -->
+        <test-method signature="validateerrorcode(java.lang.String,java.lang.String)[pri:0, instance:POMproject.WebsiteTestingMay2023.ErrorValidationTest@14bdbc74]" started-at="2024-04-05T00:46:49 EDT" name="validateerrorcode" data-provider="getdataerror" finished-at="2024-04-05T00:46:50 EDT" duration-ms="1528" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ajibirsingh1255@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateerrorcode -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:POMproject.WebsiteTestingMay2023.ErrorValidationTest@14bdbc74]" started-at="2024-04-05T00:46:50 EDT" name="closebrowser" finished-at="2024-04-05T00:46:52 EDT" duration-ms="1850" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- POMproject.WebsiteTestingMay2023.ErrorValidationTest -->
+    </test> <!-- ErrorValTest -->
+  </suite> <!-- Suite -->
+</testng-results>
